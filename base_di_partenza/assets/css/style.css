@@ -436,6 +436,7 @@ footer a {
   bottom: 20%;
   left: 90%;
   box-shadow: inset 10px 10px 5px #dedede;
+  padding: 5px;
 }
 
 .calendario {
@@ -453,6 +454,7 @@ footer a {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  padding: 5px;
 }
 
 .sito {
@@ -470,4 +472,5 @@ footer a {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  padding: 5px;
 }
